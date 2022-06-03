@@ -39,7 +39,7 @@ $ java -cp ~/Library/JADE/jade.jar:classes jade.Boot -gui -agents Receiver:pso_c
 
 ## 🧠  To have in mind 
 
-🧑🏽‍💻 The functionality still a bit sketchy, so once the project runs you must manually add the Particle agets with a *name* and their *initial population* i'll change this in the future. 
+🧑🏽‍💻 The functionality still a bit sketchy, so once the project runs you must add manually every 'Particle' agents (with a *name* and their *initial population*( i'll change this in the future. 
 
 
 ## Windows
