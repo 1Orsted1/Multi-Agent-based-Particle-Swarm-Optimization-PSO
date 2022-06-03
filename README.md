@@ -39,20 +39,11 @@ $ java -cp ~/Library/JADE/jade.jar:classes jade.Boot -gui -agents Receiver:pso_c
 
 ## 🧠  To have in mind 
 
-
 🧑🏽‍💻 The functionality still a bit sketchy, so once the project runs you must manually add the Particle agets with a *name* and their *initial population* i'll change this in the future. 
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-## 💬 Why Jade?
-
 
 
 ## Windows
+
 Since the project was writen in Java it definitively works on Windos, but the commands in the documentation section are ment for unix-based systems, so i don't think the commands work on windows, and i have no clue how to do it there, so is up to you find the way. 😄 
 
 
