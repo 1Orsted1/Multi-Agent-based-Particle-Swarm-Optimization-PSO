@@ -11,7 +11,7 @@ A heuristic optimization method that minimizes a function, writed in Java and Ja
 - Follow the installation process in the page.
 ##### 🔗 Jade WebSite:(https://jade.tilab.com/)
 
-* Once you installed Jade and the 'jade.jar' clone this repository.
+* Once you installed Jade and the 'jade.jar', clone this repository.
 ```bash
   $ git clone https://github.com/1Orsted1/Multi-Agent-based-Particle-Swarm-Optimization-PSO.git
 ```
